@@ -1,5 +1,8 @@
 # anomalous
-Anomaly detection in Go.
+[![Build Status](https://travis-ci.org/mitcelab/anomalous.svg?branch=master)](https://travis-ci.org/mitcelab/anomalous)
+[![GoDoc](https://godoc.org/github.com/mitcelab/anomalous?status.svg)](https://godoc.org/github.com/mitcelab/anomalous)
+
+Anomaly detection in Go with isolation forests.
 
 ### install
 > go install github.com/mitcelab/anomalous
